@@ -1,0 +1,8 @@
+{
+  "latestVersion": "1.5.7",
+  "latestVersionCode": "18",
+  "url": "https://github.com/lkloon123/BulletinBoard/releases/download/bulletin-1.5/BulletinBoard_Ver1.5.7.apk",
+  "releaseNotes": [
+    "- fix error if mqtt username & password empty."
+  ]
+}

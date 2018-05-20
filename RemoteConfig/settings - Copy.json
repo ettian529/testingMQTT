@@ -1,0 +1,16 @@
+{
+	"version":"2.2",
+	"mqttserverurl": "tcp://172.16.2.247:1883",
+	"mqtttopic": "MY/TARUC/BBS/MYTARUC00000001/PRI",
+	"mqttusername": "",
+	"mqttpassword": "",
+
+	"databaseserverurl": "jdbc:mysql://172.16.2.247:3306/",
+	"databaseuser":"bulletin",
+	"databasepassword":"bulletin",
+	"databasename":"bulletindb",
+
+    "androidupdateurl":"https://raw.githubusercontent.com/lkloon123/BulletinBoard/master/RemoteConfig/android-version.json",
+    "javaupdateurl":"https://raw.githubusercontent.com/lkloon123/BulletinBoard/master/RemoteConfig/java-version.json",
+	"feedbackreceiveemail":"lamkl-wa14@student.tarc.edu.my"
+}
