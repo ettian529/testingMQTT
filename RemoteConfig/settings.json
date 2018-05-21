@@ -8,7 +8,7 @@
 	"databaseserverurl": "jdbc:mysql://192.168.1.4/",
 	"databaseuser":"temp",
 	"databasepassword":"123",
-	"databasename":"bulletindb2",
+	"databasename":"testbulletindb",
 
     "androidupdateurl":"https://github.com/ettian529/testingMQTT/blob/master/RemoteConfig/android-version.json",
     "javaupdateurl":"https://github.com/ettian529/testingMQTT/blob/master/RemoteConfig/java-version.json",
