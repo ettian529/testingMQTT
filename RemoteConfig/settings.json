@@ -1,0 +1,16 @@
+{
+	"version":"2.2",
+	"mqttserverurl": "tcp://192.168.1.4:1883",
+	"mqtttopic": "test2",
+	"mqttusername": "",
+	"mqttpassword": "",
+
+	"databaseserverurl": "jdbc:mysql://192.168.1.4/",
+	"databaseuser":"temp",
+	"databasepassword":"123",
+	"databasename":"bulletindb2",
+
+    "androidupdateurl":"https://github.com/ettian529/testingMQTT/blob/master/RemoteConfig/android-version.json",
+    "javaupdateurl":"https://github.com/ettian529/testingMQTT/blob/master/RemoteConfig/java-version.json",
+	"feedbackreceiveemail":"lamkl-wa14@student.tarc.edu.my"
+}
