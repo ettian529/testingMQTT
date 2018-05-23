@@ -1,5 +1,5 @@
 {
-	"version":"2.2",
+	"version":"2.3",
 	"mqttserverurl": "tcp://192.168.1.4:1883",
 	"mqtttopic": "test2",
 	"mqttusername": "",
