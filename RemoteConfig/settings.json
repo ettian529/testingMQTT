@@ -1,7 +1,7 @@
 {
 	"version":"2.2",
 	"mqttserverurl": "tcp://192.168.0.181:1883",
-	"mqtttopic": "test2",
+	"mqtttopic": "test3",
 	"mqttusername": "",
 	"mqttpassword": "",
 
