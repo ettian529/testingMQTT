@@ -1,11 +1,11 @@
 {
 	"version":"2.3",
-	"mqttserverurl": "tcp://192.168.1.4:1883",
+	"mqttserverurl": "tcp://192.168.0.181:1883",
 	"mqtttopic": "test2",
 	"mqttusername": "",
 	"mqttpassword": "",
 
-	"databaseserverurl": "jdbc:mysql://192.168.1.4/",
+	"databaseserverurl": "jdbc:mysql://192.168.0.181/",
 	"databaseuser":"temp",
 	"databasepassword":"123",
 	"databasename":"bulletindb2",
