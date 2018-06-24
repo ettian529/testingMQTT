@@ -1,5 +1,5 @@
 {
-	"version":"1.3",
+	"version":"1.4",
 	"command_list":
 	[
 		{
@@ -72,6 +72,12 @@
 			"name":"SRC_LIKE_STATUS_EXIST",
 			"cmdbyte":"0010100C",
 			"payload":"3030313031303043",
+			"reserve":"303030303030303030303030303030303030303030303030"
+		},
+		{
+			"name":"SRC_LIKE_STATUS_EXIST_ACK",
+			"cmdbyte":"0010100D",
+			"payload":"3030313031303044",
 			"reserve":"303030303030303030303030303030303030303030303030"
 		}
 	]
