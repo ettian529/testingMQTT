@@ -1,5 +1,5 @@
 {
-	"version":"1.7",
+	"version":"1.8",
 	"command_list":
 	[
 		{
@@ -96,6 +96,12 @@
 			"name":"SC_BULLETIN_CATEGORY",
 			"cmdbyte":"00101010",
 			"payload":"3030313031303047",
+			"reserve":"303030303030303030303030303030303030303030303030"
+		},
+		{
+			"name":"SC_BULLETIN_CATEGORY_ACK",
+			"cmdbyte":"00101011",
+			"payload":"3030313031303048",
 			"reserve":"303030303030303030303030303030303030303030303030"
 		}
 	]
