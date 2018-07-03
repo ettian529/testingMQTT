@@ -1,5 +1,5 @@
 {
-	"version":"1.8",
+	"version":"1.9",
 	"command_list":
 	[
 		{
@@ -102,6 +102,18 @@
 			"name":"SC_BULLETIN_CATEGORY_ACK",
 			"cmdbyte":"00101011",
 			"payload":"3030313031303048",
+			"reserve":"303030303030303030303030303030303030303030303030"
+		},
+		{
+			"name":"SC_BULLETIN_CATEGORY_HOT_ACK",
+			"cmdbyte":"00101012",
+			"payload":"3030313031303049",
+			"reserve":"303030303030303030303030303030303030303030303030"
+		},
+		{
+			"name":"SC_BULLETIN_CATEGORY_POPULAR_ACK",
+			"cmdbyte":"00101013",
+			"payload":"3030313031303051",
 			"reserve":"303030303030303030303030303030303030303030303030"
 		}
 	]
