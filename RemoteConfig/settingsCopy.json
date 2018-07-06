@@ -1,14 +1,14 @@
 {
-	"version":"2.6",
-	"mqttserverurl": "tcp://192.168.0.181:1883",
+	"version":"2.7",
+	"mqttserverurl": "tcp://172.16.1.193:1883",
 	"mqtttopic": "test3",
 	"mqttusername": "",
 	"mqttpassword": "",
 
-	"databaseserverurl": "jdbc:mysql://192.168.0.181/",
+	"databaseserverurl": "jdbc:mysql://172.16.1.193/",
 	"databaseuser":"root",
 	"databasepassword":"",
-	"databasename":"bulletindb2",
+	"databasename":"bulletindb",
 
     "androidupdateurl":"https://github.com/ettian529/testingMQTT/blob/master/RemoteConfig/android-version.json",
     "javaupdateurl":"https://github.com/ettian529/testingMQTT/blob/master/RemoteConfig/java-version.json",
