@@ -1,16 +1,16 @@
 {
-	"version":"2.2",
-	"mqttserverurl": "tcp://172.16.2.247:1883",
-	"mqtttopic": "MY/TARUC/BBS/MYTARUC00000001/PRI",
+	"version":"2.4",
+	"mqttserverurl": "tcp://192.168.0.181:1883",
+	"mqtttopic": "test3",
 	"mqttusername": "",
 	"mqttpassword": "",
 
-	"databaseserverurl": "jdbc:mysql://172.16.2.247:3306/",
-	"databaseuser":"bulletin",
-	"databasepassword":"bulletin",
-	"databasename":"bulletindb",
+	"databaseserverurl": "jdbc:mysql://192.168.0.181/",
+	"databaseuser":"",
+	"databasepassword":"",
+	"databasename":"bulletindb2",
 
-    "androidupdateurl":"https://raw.githubusercontent.com/lkloon123/BulletinBoard/master/RemoteConfig/android-version.json",
-    "javaupdateurl":"https://raw.githubusercontent.com/lkloon123/BulletinBoard/master/RemoteConfig/java-version.json",
+    "androidupdateurl":"https://github.com/ettian529/testingMQTT/blob/master/RemoteConfig/android-version.json",
+    "javaupdateurl":"https://github.com/ettian529/testingMQTT/blob/master/RemoteConfig/java-version.json",
 	"feedbackreceiveemail":"lamkl-wa14@student.tarc.edu.my"
 }
