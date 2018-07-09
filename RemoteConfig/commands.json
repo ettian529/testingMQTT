@@ -1,5 +1,5 @@
 {
-	"version":"2.3",
+	"version":"2.4",
 	"command_list":
 	[
 		{
@@ -144,6 +144,18 @@
 			"name":"SC_REQUEST_FAVORITE_BULLETIN",
 			"cmdbyte":"00101018",
 			"payload":"3030313031303056",
+			"reserve":"303030303030303030303030303030303030303030303030"
+		},
+		{
+			"name":"SC_CHECK_NEW_BULLETIN",
+			"cmdbyte":"00101019",
+			"payload":"3030313031303057",
+			"reserve":"303030303030303030303030303030303030303030303030"
+		},
+		{
+			"name":"SC_CHECK_NEW_BULLETIN_ACK",
+			"cmdbyte":"0010101A",
+			"payload":"3030313031303058",
 			"reserve":"303030303030303030303030303030303030303030303030"
 		}
 	]
