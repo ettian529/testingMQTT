@@ -1,5 +1,5 @@
 {
-	"version":"2.7",
+	"version":"2.8",
 	"command_list":
 	[
 		{
@@ -183,13 +183,13 @@
 			"reserve":"303030303030303030303030303030303030303030303030"
 		},
 		{
-			"name":"SC_ADD_LOGIN_AIDIT",
+			"name":"SC_ADD_LOGIN_AIDIT_REQUEST",
 			"cmdbyte":"0010101F",
 			"payload":"3030313031303064",
 			"reserve":"303030303030303030303030303030303030303030303030"
 		},
 		{
-			"name":"SC_ADD_LOGIN_AIDIT",
+			"name":"SC_ADD_LOGIN_AIDIT_RETURN",
 			"cmdbyte":"00101020",
 			"payload":"3030313031303065",
 			"reserve":"303030303030303030303030303030303030303030303030"
