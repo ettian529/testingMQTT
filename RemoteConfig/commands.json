@@ -1,5 +1,5 @@
 {
-	"version":"2.8",
+	"version":"2.9",
 	"command_list":
 	[
 		{
@@ -192,6 +192,18 @@
 			"name":"SC_ADD_LOGIN_AIDIT_RETURN",
 			"cmdbyte":"00101020",
 			"payload":"3030313031303065",
+			"reserve":"303030303030303030303030303030303030303030303030"
+		},
+		{
+			"name":"SC_ALERT_NOTIFICATION",
+			"cmdbyte":"00101021",
+			"payload":"3030313031303066",
+			"reserve":"303030303030303030303030303030303030303030303030"
+		},
+		{
+			"name":"SC_ALERT_NOTIFICATION_ACK",
+			"cmdbyte":"00101022",
+			"payload":"3030313031303067",
 			"reserve":"303030303030303030303030303030303030303030303030"
 		}
 		
