@@ -1,5 +1,5 @@
 {
-	"version":"3.0",
+	"version":"3.1",
 	"command_list":
 	[
 		{
@@ -222,6 +222,12 @@
 			"name":"SC_BULLETIN_HOT_POPULAR_REQUEST",
 			"cmdbyte":"00101025",
 			"payload":"3030313031303070",
+			"reserve":"303030303030303030303030303030303030303030303030"
+		},
+		{
+			"name":"SC_BULLETIN_REMOVE_FAVOURITE",
+			"cmdbyte":"00101026",
+			"payload":"3030313031303071",
 			"reserve":"303030303030303030303030303030303030303030303030"
 		}
 		
