@@ -1,9 +1,9 @@
 {
-	"version":"2.5",
-	"mqttserverurl": "tcp://m11.cloudmqtt.com:14726",
-	"mqtttopic": "MY/TARUC/BBS/MYTARUC00000001/PRI",
-	"mqttusername": "dwfwzqmp",
-	"mqttpassword": "k-HIFfpmJnIn",
+	"version":"2.6",
+	"mqttserverurl": "am6g3/bccamnNZCoJ1D+mdAqTzFnY7djRystJrNoD9M=",
+	"mqtttopic": "C1s+5m3QZxUNTePnE4RlErNuhEGDfo/PSKM3KYcOv10IpF9FxMJJUiyquCyd9L85",
+	"mqttusername": "hlVg7n7dZjP1CrHumTG8cQ==",
+	"mqttpassword": "OuLYyKi/sGoLioTDkBjrKg==",
 
 	"databaseserverurl": "jdbc:mysql://192.168.0.181/",
 	"databaseuser":"temp",
