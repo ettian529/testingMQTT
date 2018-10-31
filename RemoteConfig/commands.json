@@ -1,5 +1,5 @@
 {
-	"version":"3.4",
+	"version":"3.5",
 	"command_list":
 	[
 		{
@@ -252,6 +252,18 @@
 			"name":"SC_FEEDBACK_SEND",
 			"cmdbyte":"00101030",
 			"payload":"3030313031303075",
+			"reserve":"303030303030303030303030303030303030303030303030"
+		},
+		{
+			"name":"SC_REQUEST_BULLETIN_BY_STATE",
+			"cmdbyte":"00101031",
+			"payload":"3030313031303076",
+			"reserve":"303030303030303030303030303030303030303030303030"
+		},
+		{
+			"name":"SC_REQUEST_BULLETIN_BY_STATE_RETURN",
+			"cmdbyte":"00101032",
+			"payload":"3030313031303077",
 			"reserve":"303030303030303030303030303030303030303030303030"
 		}
 		
