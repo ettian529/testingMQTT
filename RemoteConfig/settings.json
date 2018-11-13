@@ -1,11 +1,11 @@
 {
-	"version":"3.1",
+	"version":"3.2",
 	"mqttserverurl": "am6g3/bccamnNZCoJ1D+mdAqTzFnY7djRystJrNoD9M=",
 	"mqtttopic": "C1s+5m3QZxUNTePnE4RlErNuhEGDfo/PSKM3KYcOv10IpF9FxMJJUiyquCyd9L85",
 	"mqttusername": "hlVg7n7dZjP1CrHumTG8cQ==",
 	"mqttpassword": "OuLYyKi/sGoLioTDkBjrKg==",
 
-	"databaseserverurl": "XD5nDQl+TbwE4GiUieAHG6eIGTwEU0SK1BgicKasajo=",
+	"databaseserverurl": "XD5nDQl+TbwE4GiUieAHG5Hp/MyjiWpLabWOhwSTtoI=",
 	"databaseuser":"GF/pWS5W2U7Em4Y6n3g/yA==",
 	"databasepassword":"GF/pWS5W2U7Em4Y6n3g/yA==",
 	"databasename":"w9zI18gehGozz4BG8INX1w==",
