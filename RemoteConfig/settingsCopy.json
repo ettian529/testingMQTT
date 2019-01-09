@@ -1,16 +1,1 @@
-{
-	"version":"2.8",
-	"mqttserverurl": "tcp://172.16.1.193:1883",
-	"mqtttopic": "test3",
-	"mqttusername": "",
-	"mqttpassword": "",
-
-	"databaseserverurl": "jdbc:mysql://172.16.1.193/",
-	"databaseuser":"localhost",
-	"databasepassword":"",
-	"databasename":"bulletindb",
-
-    "androidupdateurl":"https://github.com/ettian529/testingMQTT/blob/master/RemoteConfig/android-version.json",
-    "javaupdateurl":"https://github.com/ettian529/testingMQTT/blob/master/RemoteConfig/java-version.json",
-	"feedbackreceiveemail":"lamkl-wa14@student.tarc.edu.my"
-}
+https://firebasestorage.googleapis.com/v0/b/test-8d383.appspot.com/o/aa.zip?alt=media&token=80d9527b-f514-4c5d-94ca-9db4c15fedd5
