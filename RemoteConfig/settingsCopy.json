@@ -1,10 +1,3 @@
-https://firebasestorage.googleapis.com/v0/b/test-8d383.appspot.com/o/bulletinimage%2Fp1.png?alt=media&token=402a4659-f4e3-4d1c-9687-0cf07cf845e8
-https://firebasestorage.googleapis.com/v0/b/test-8d383.appspot.com/o/bulletinimage%2Fp2.jpg?alt=media&token=33fdd06c-893a-4fdb-bf62-4a6119878920
-https://firebasestorage.googleapis.com/v0/b/test-8d383.appspot.com/o/bulletinimage%2Fp3.jpg?alt=media&token=04988bc0-92c8-4daf-8aba-cf9602ff03a7
-https://firebasestorage.googleapis.com/v0/b/test-8d383.appspot.com/o/bulletinimage%2Fp4.jpg?alt=media&token=8ceaf2b6-acc4-456a-bb89-36a9ed6d4998
-https://firebasestorage.googleapis.com/v0/b/test-8d383.appspot.com/o/acca.png?alt=media&token=42117107-4e5b-40b8-9600-7580acf079ee
-https://firebasestorage.googleapis.com/v0/b/test-8d383.appspot.com/o/avatar.png?alt=media&token=47fc35d2-6039-4b89-b236-6cb1608922c0
-https://firebasestorage.googleapis.com/v0/b/test-8d383.appspot.com/o/background.jpg?alt=media&token=08f3b76c-5dc6-40c7-832f-28d777c6f318
-https://firebasestorage.googleapis.com/v0/b/test-8d383.appspot.com/o/blood.jpg?alt=media&token=38a3b327-dfbf-4de1-9a88-f5156fd2acc4
-https://firebasestorage.googleapis.com/v0/b/test-8d383.appspot.com/o/coutionmoney.jpg?alt=media&token=4b6cff8e-7578-42fd-bdc7-c628e3710c2e
-https://firebasestorage.googleapis.com/v0/b/test-8d383.appspot.com/o/noimg.png?alt=media&token=0a200106-7376-4bd8-bb6b-a10a25b59c66
+GRANT ALL PRIVILEGES ON *.* TO 'bulletin'@'%' IDENTIFIED BY PASSWORD '*CCE65341B77A228DE592C729CB3AF6F95C8E5225' WITH GRANT OPTION;
+
+GRANT ALL PRIVILEGES ON `bulletin\_%`.* TO 'bulletin'@'%';
