@@ -1,3 +1,1 @@
-GRANT ALL PRIVILEGES ON *.* TO 'bulletin'@'%' IDENTIFIED BY PASSWORD '*CCE65341B77A228DE592C729CB3AF6F95C8E5225' WITH GRANT OPTION;
-
-GRANT ALL PRIVILEGES ON `bulletin\_%`.* TO 'bulletin'@'%';
+https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
